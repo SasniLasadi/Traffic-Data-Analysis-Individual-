@@ -1,2 +1,2 @@
-# Traffic-Data-Processing-Visualization-System
+# Traffic-Data-Processing-and-Visualization-System
 This project is a Python-based traffic data analysis tool that processes CSV data collected from two road junctions. It validates user input, performs statistical analysis, displays processed outcomes, saves results to a file and generates a histogram visualization of hourly vehicle counts using Tkinter. 
